@@ -1,0 +1,35 @@
+C:\Users\Nick\Desktop\Everything\Projetos VB\Simbolos logicos\Simbolos logicos\bin\Debug\Simbolos logicos.exe
+C:\Users\Nick\Desktop\Everything\Projetos VB\Simbolos logicos\Simbolos logicos\bin\Debug\Simbolos logicos.pdb
+C:\Users\Nick\Desktop\Everything\Projetos VB\Simbolos logicos\Simbolos logicos\bin\Debug\Simbolos logicos.xml
+C:\Users\Nick\Desktop\Everything\Projetos VB\Simbolos logicos\Simbolos logicos\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Nick\Desktop\Everything\Projetos VB\Simbolos logicos\Simbolos logicos\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Nick\Desktop\Everything\Projetos VB\Simbolos logicos\Simbolos logicos\obj\x86\Debug\Simbolos logicos.vbproj.GenerateResource.Cache
+C:\Users\Nick\Desktop\Everything\Projetos VB\Simbolos logicos\Simbolos logicos\obj\x86\Debug\Simbolos logicos.exe
+C:\Users\Nick\Desktop\Everything\Projetos VB\Simbolos logicos\Simbolos logicos\obj\x86\Debug\Simbolos logicos.xml
+C:\Users\Nick\Desktop\Everything\Projetos VB\Simbolos logicos\Simbolos logicos\obj\x86\Debug\Simbolos logicos.pdb
+C:\Users\Nick\Desktop\Everything\Projetos VB\Simbolos logicos\Simbolos logicos\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Nick\Desktop\Everything\Projetos VB\Simbolos logicos\Simbolos logicos\bin\Debug\Simbolos logicos.exe.config
+C:\Users\Nick\Desktop\Everything\Projetos VB\Simbolos logicos\Simbolos logicos\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Nicholas\Desktop\Everything\Projetos VB\Simbolos logicos\Simbolos logicos\bin\Debug\Simbolos logicos.exe.config
+C:\Users\Nicholas\Desktop\Everything\Projetos VB\Simbolos logicos\Simbolos logicos\bin\Debug\Simbolos logicos.exe
+C:\Users\Nicholas\Desktop\Everything\Projetos VB\Simbolos logicos\Simbolos logicos\bin\Debug\Simbolos logicos.pdb
+C:\Users\Nicholas\Desktop\Everything\Projetos VB\Simbolos logicos\Simbolos logicos\bin\Debug\Simbolos logicos.xml
+C:\Users\Nicholas\Desktop\Everything\Projetos VB\Simbolos logicos\Simbolos logicos\obj\x86\Debug\Simbolos logicos.vbprojAssemblyReference.cache
+C:\Users\Nicholas\Desktop\Everything\Projetos VB\Simbolos logicos\Simbolos logicos\obj\x86\Debug\Simbolos logicos.vbproj.GenerateResource.cache
+C:\Users\Nicholas\Desktop\Everything\Projetos VB\Simbolos logicos\Simbolos logicos\obj\x86\Debug\Simbolos logicos.exe
+C:\Users\Nicholas\Desktop\Everything\Projetos VB\Simbolos logicos\Simbolos logicos\obj\x86\Debug\Simbolos logicos.xml
+C:\Users\Nicholas\Desktop\Everything\Projetos VB\Simbolos logicos\Simbolos logicos\obj\x86\Debug\Simbolos logicos.pdb
+C:\Users\Nicholas\Desktop\Everything\Projetos VB\Simbolos logicos\Simbolos logicos\obj\x86\Debug\SimbolosLogicos.Form1.resources
+C:\Users\Nicholas\Desktop\Everything\Projetos VB\Simbolos logicos\Simbolos logicos\obj\x86\Debug\SimbolosLogicos.Resources.resources
+D:\Everything\Projetos VB\Simbolos logicos\Simbolos logicos\bin\Debug\Simbolos logicos.exe.config
+D:\Everything\Projetos VB\Simbolos logicos\Simbolos logicos\bin\Debug\Simbolos logicos.exe
+D:\Everything\Projetos VB\Simbolos logicos\Simbolos logicos\bin\Debug\Simbolos logicos.pdb
+D:\Everything\Projetos VB\Simbolos logicos\Simbolos logicos\bin\Debug\Simbolos logicos.xml
+D:\Everything\Projetos VB\Simbolos logicos\Simbolos logicos\obj\x86\Debug\Simbolos logicos.vbprojAssemblyReference.cache
+D:\Everything\Projetos VB\Simbolos logicos\Simbolos logicos\obj\x86\Debug\SimbolosLogicos.Form1.resources
+D:\Everything\Projetos VB\Simbolos logicos\Simbolos logicos\obj\x86\Debug\SimbolosLogicos.Resources.resources
+D:\Everything\Projetos VB\Simbolos logicos\Simbolos logicos\obj\x86\Debug\Simbolos logicos.vbproj.GenerateResource.cache
+D:\Everything\Projetos VB\Simbolos logicos\Simbolos logicos\obj\x86\Debug\Simbolos logicos.vbproj.CoreCompileInputs.cache
+D:\Everything\Projetos VB\Simbolos logicos\Simbolos logicos\obj\x86\Debug\Simbolos logicos.exe
+D:\Everything\Projetos VB\Simbolos logicos\Simbolos logicos\obj\x86\Debug\Simbolos logicos.xml
+D:\Everything\Projetos VB\Simbolos logicos\Simbolos logicos\obj\x86\Debug\Simbolos logicos.pdb
