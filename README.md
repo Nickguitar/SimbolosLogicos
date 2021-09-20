@@ -1,4 +1,4 @@
-# SimbolosLogicos
+# Simbolos Logicos
 
 Programa com alguns símbolos lógicos para ajudar na escrita de textos
 
@@ -10,8 +10,8 @@ CTRL + ALT + 2 = ◊
 CTRL + ALT + 3 = Ǝ
 CTRL + ALT + 4 = ∀
 CTRL + ALT + 5 = ↔
-CTRL + ALT+ 6 = ⊃
-CTRL + ALT+ 7 = ∨
+CTRL + ALT + 6 = ⊃
+CTRL + ALT + 7 = ∨
 CTRL + ALT + 8 = ∧
 CTRL + ALT + 9 = ϕ
 ```
