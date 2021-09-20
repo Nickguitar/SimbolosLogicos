@@ -21,3 +21,5 @@ Na versão mais atual, implementei os comandos do LaTeX no programa, além de re
 O [binário](https://github.com/Nickguitar/SimbolosLogicos/raw/main/Simbolos%20logicos/bin/Debug/Simbolos%20logicos%20V1.1.exe) pode ser encontrado em `/Simbolos logicos/Simbolos logicos/bin/Debug/Simbolos logicos V1.1.exe`
 
 ![image](https://user-images.githubusercontent.com/3837916/115126830-669fc180-9fa8-11eb-8376-4022a550727d.png)
+
+## [Download](https://github.com/Nickguitar/SimbolosLogicos/raw/main/Simbolos%20logicos/bin/Debug/Simbolos%20logicos%20V1.1.exe)
